@@ -1,6 +1,6 @@
 # OpenCreator
 
-> **You create. OpenCreator takes care of the rest.**
+> **You create. OpenCreator preserves and shares..**
 
 OpenCreator is a free and open-source environment designed for independent creators.
 
