@@ -8,4 +8,4 @@ You don't need to know Markdown.
 
 You simply create.
 
-OpenCreator takes care of the rest.
+OpenCreator preserves and shares.
