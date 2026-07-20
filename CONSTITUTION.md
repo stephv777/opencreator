@@ -174,6 +174,7 @@ If not,
 
 it probably does not belong here.
 
+---
 
 ## Principle 14 — Integrate, don't reinvent
 
