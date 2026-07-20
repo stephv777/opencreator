@@ -176,7 +176,7 @@ it probably does not belong here.
 
 ---
 
-## Principle 14 — Integrate, don't reinvent
+# Principle 14 — Integrate, don't reinvent
 
 OpenCreator does not aim to replace mature Free/Open Source software.
 
