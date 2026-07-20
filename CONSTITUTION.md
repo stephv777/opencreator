@@ -173,3 +173,18 @@ Does it help creators create,preserve or transmit their work?
 If not,
 
 it probably does not belong here.
+
+
+## Principle 14 — Integrate, don't reinvent
+
+OpenCreator does not aim to replace mature Free/Open Source software.
+
+Whenever a stable, well-maintained solution already exists, OpenCreator prefers to integrate it rather than recreate it.
+
+Our goal is to simplify the creator's experience by connecting proven tools into one coherent environment.
+
+Software may evolve.
+
+Principles remain.
+
+OpenCreator values interoperability, open standards and long-term sustainability over unnecessary duplication.simplification and interoperability over creating another competing application.
