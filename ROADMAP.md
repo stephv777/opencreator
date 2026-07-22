@@ -1,11 +1,38 @@
-# Roadmap
+# OpenCreator Roadmap
 
-Current objective
+## 0.1 Foundation
 
-OpenCreator Environment 0.1
+- Debian installation
+- OpenCreator installer
+- First dashboard
+- Local projects
+- Local preservation
+- First publication workflow
 
-Create.
+## 0.2
 
-Preserve.
+- Website
+- PDF
+- EPUB
+- IPFS
 
-Transmit.
+## 0.3
+
+- Audio
+- Podcast
+- Video
+
+## 0.4
+
+- PeerTube
+- YouTube
+- Odysee
+- CrowdBunker
+
+## 0.5
+
+- Community
+- Support Me
+- Synchronisation
+
+...
