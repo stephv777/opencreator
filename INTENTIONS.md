@@ -7,3 +7,5 @@
 - Support my work
 - Meet someone
 - Explore my projects
+
+OpenCreator asks only the questions necessary to accomplish your intention.
